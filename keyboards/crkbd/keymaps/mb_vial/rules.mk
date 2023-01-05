@@ -1,6 +1,10 @@
 VIA_ENABLE          = yes
 VIAL_ENABLE         = yes
 LTO_ENABLE          = yes
+DEBOUNCE_TYPE       = asym_eager_defer_pk
 QMK_SETTINGS        = no
+CONSOLE_ENABLE      = no
+COMMAND_ENABLE      = no
 MOUSEKEY_ENABLE     = yes
 COMBO_ENABLE        = no
+KEY_OVERRIDE_ENABLE = no
